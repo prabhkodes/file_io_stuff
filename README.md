@@ -1,5 +1,11 @@
 # HPC File Systems & Parallel I/O
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OpenMPI](https://img.shields.io/badge/OpenMPI-364d6e?style=flat-square&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-006DB8?style=flat-square&logoColor=white)
+![HDF5](https://img.shields.io/badge/HDF5-0096D6?style=flat-square&logoColor=white)
+
 Three projects covering parallel I/O patterns and filesystem performance relevant to HPC workloads.
 
 ## Projects
